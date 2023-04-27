@@ -125,7 +125,7 @@ Minha estratégia para resolver esse desafio, baseado na metodologia CRISP-DS, �
 
 **Planejamento de Infraestrutura do Projeto:**
 
-<img src="https://github.com/nortonvanz/Fidelity-Program/blob/pa005_norton_vanz/images/architecture_planning.jpeg?raw=true" alt="architecture_planning" title="Planejamento de Infraestrutura Local e em Cloud" align="center" height="600" class="center"/>
+<img src="https://github.com/kedimo-cd/_fidelity_program_/blob/main/images/architecture_planning.jpeg" alt="architecture_planning" title="Planejamento de Infraestrutura Local e em Cloud" align="center" height="600" class="center"/>
 
 ## 4. Os 3 principais insights dos dados
 Durante a análise exploratória de dados, foram gerados insights ao time de negócio, através da validação das hipóteses.
@@ -181,7 +181,7 @@ O detalhamento dos cálculos também encontra-se no Jupyter Notebook, no ciclo 8
 
 ### Dashboard dos Grupos de Clientes no Metabase
 
-<img src="https://github.com/nortonvanz/Fidelity-Program/blob/pa005_norton_vanz/images/loyals_dashboard.jpeg?raw=true" alt="loyals_dashboard" title="Dashboard dos Grupos de Clientes no Metabase" align="center" height="600" class="center"/>
+<img src="https://github.com/kedimo-cd/_fidelity_program_/blob/main/images/loyals_dashboard.jpeg"/>
 
 # 8. Conclusões
 Com base nos resultados de negócio, conclui-se que o objetivo do projeto foi atingido.
