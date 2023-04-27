@@ -197,4 +197,4 @@ Ações de marketing direcionadas para os demais grupos de clientes também pode
 
 ## 10 Referências
 * O Dataset foi obtido no [Kaggle](https://www.kaggle.com/vik2012kvs/high-value-customers-identification).
-* A imagem utilizada é de uso livre e foi obtida no [Pexels](https://www.pexels.com/pt-br/foto/silhueta-de-pessoas-durante-o-por-do-sol-853168/).
+* A imagem utilizada é de uso livre e foi obtida no [Pexels](https://www.pexels.com/pt-br/foto/branco-sentado-atras-do-balcao-sob-a-televisao-518244/).
