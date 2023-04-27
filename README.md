@@ -1,6 +1,6 @@
 # Customer Loyalty Program for E-Commerce
 
-<img src="https://github.com/nortonvanz/Fidelity-Program/blob/pa005_norton_vanz/images/fidelity_program.jpeg?raw=true" width=70% height=70% title="Clustering-for-Loyalty-Program" alt="project_cover_image"/>
+<img src="https://github.com/kedimo-cd/_fidelity_program_/blob/main/images/fidelidade.jpg"/>
 
 Projeto de identificação do perfil de clientes mais valiosos, para a construção de um programa de fidelidade.
 
